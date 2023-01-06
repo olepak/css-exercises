@@ -6,3 +6,10 @@
 	color: blue;
 	font-size: 36px;
 }
+.font24 {
+	font-size: 24px;
+}
+#fourth-element {
+	background-color: lightgreen;
+	font-weight: bold;
+}
